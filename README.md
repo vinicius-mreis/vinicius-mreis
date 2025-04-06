@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Vinicius</h1>
+<h1 align="center">Olá 👋, Eu sou o Vinícius</h1>
 <h3 align="center">Desenvolvedor front-end</h3>
 
 ## Contato:
